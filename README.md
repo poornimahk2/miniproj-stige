@@ -1,1 +1,1 @@
-A mini project , frontend web deveopment, using HTML CSS and JavaScript
+A mini project , frontend web development, using HTML CSS and JavaScript
